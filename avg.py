@@ -17,7 +17,7 @@
 # elif avg >=50:
 #     print("مقبول")
 # else:
-#     print("راسب")
+
 
 balance= 10000
 amont= int(input("ادخل قيمة المشتريات"))
@@ -29,3 +29,6 @@ if amont<= balance:
     
 else:
     print("رصيدك غير كافي")
+    
+    
+print("hello")
